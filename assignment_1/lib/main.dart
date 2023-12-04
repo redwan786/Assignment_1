@@ -157,8 +157,8 @@ class _MyHomePageState extends State<MyHomePage> {
                                 crossAxisAlignment: CrossAxisAlignment.center,
                                 mainAxisAlignment: MainAxisAlignment.center,
                                 children: [
-                                  Text(" dopamin detox\n"
-                                      "thibaut meurisse", style: TextStyle(fontSize: 12),),
+                                  Text(" Irrfan: A Life in Movies\n"
+                                      "Shubhra Gupta", style: TextStyle(fontSize: 12),),
 
                                   ElevatedButton(onPressed: () {
                                     Navigator.push(context, MaterialPageRoute(builder: (context)=>BuyNowPage1("")) );
@@ -206,8 +206,8 @@ class _MyHomePageState extends State<MyHomePage> {
                                 crossAxisAlignment: CrossAxisAlignment.center,
                                 mainAxisAlignment: MainAxisAlignment.center,
                                 children: [
-                                  Text(" Paradoxical-sajid\n"
-                                      "Arif Azad", style: TextStyle(fontSize: 12),),
+                                  Text(" The World: A Family History of Humanity\n"
+                                      "Simon Sebag", style: TextStyle(fontSize: 14),),
 
                                   ElevatedButton(onPressed: () {
                                     Navigator.push(context, MaterialPageRoute(builder: (context)=>BuyNowPage2("")) );
