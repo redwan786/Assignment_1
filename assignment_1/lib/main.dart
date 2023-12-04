@@ -256,7 +256,7 @@ class _MyHomePageState extends State<MyHomePage> {
                                 mainAxisAlignment: MainAxisAlignment.center,
                                 children: [
                                   Text(" Jadunama: Javed Akhtar's Journey\n"
-                                      "Arif Azad", style: TextStyle(fontSize: 12),),
+                                      "Aravinda Maṇḍaloī", style: TextStyle(fontSize: 12),),
 
                                   ElevatedButton(onPressed: () {
                                     Navigator.push(context, MaterialPageRoute(builder: (context)=>BuyNowPage3("")) );
