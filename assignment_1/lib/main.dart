@@ -255,7 +255,7 @@ class _MyHomePageState extends State<MyHomePage> {
                                 crossAxisAlignment: CrossAxisAlignment.center,
                                 mainAxisAlignment: MainAxisAlignment.center,
                                 children: [
-                                  Text(" Bela-Furabar-Agey\n"
+                                  Text(" Jadunama: Javed Akhtar's Journey\n"
                                       "Arif Azad", style: TextStyle(fontSize: 12),),
 
                                   ElevatedButton(onPressed: () {
