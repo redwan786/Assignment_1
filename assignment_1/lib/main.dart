@@ -802,7 +802,4 @@ class BuyNowPage3 extends StatelessWidget {
     );
   }
 }
-/*
-This is software Development-III(Edited from online github.com)
 
-*/
