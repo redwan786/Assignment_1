@@ -115,7 +115,7 @@ class _MyHomePageState extends State<MyHomePage> {
                                   ElevatedButton(onPressed: () {
                                     Navigator.push(context, MaterialPageRoute(builder: (context)=>BuyNowPage("")) );
 
-                                  }, child: Text("buy now"))
+                                  }, child: Text("Buy now"))
 
                                 ],
                               ),
@@ -163,7 +163,7 @@ class _MyHomePageState extends State<MyHomePage> {
                                   ElevatedButton(onPressed: () {
                                     Navigator.push(context, MaterialPageRoute(builder: (context)=>BuyNowPage1("")) );
 
-                                  }, child: Text("buy now"))
+                                  }, child: Text("Buy now"))
 
                                 ],
                               ),
@@ -212,7 +212,7 @@ class _MyHomePageState extends State<MyHomePage> {
                                   ElevatedButton(onPressed: () {
                                     Navigator.push(context, MaterialPageRoute(builder: (context)=>BuyNowPage2("")) );
 
-                                  }, child: Text("buy now"))
+                                  }, child: Text("Buy now"))
 
                                 ],
                               ),
@@ -256,12 +256,12 @@ class _MyHomePageState extends State<MyHomePage> {
                                 mainAxisAlignment: MainAxisAlignment.center,
                                 children: [
                                   Text(" Jadunama: Javed Akhtar's Journey\n"
-                                      "Arif Azad", style: TextStyle(fontSize: 12),),
+                                      "Aravinda Maṇḍaloī", style: TextStyle(fontSize: 12),),
 
                                   ElevatedButton(onPressed: () {
                                     Navigator.push(context, MaterialPageRoute(builder: (context)=>BuyNowPage3("")) );
 
-                                  }, child: Text("buy now"))
+                                  }, child: Text("Buy now"))
 
                                 ],
                               ),
@@ -305,7 +305,7 @@ class BuyNowPage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Buy Now'),
+        title: Text('Buy now'),
         titleSpacing: 20,
         toolbarHeight: 40,
         toolbarOpacity: 1,
@@ -431,7 +431,7 @@ class BuyNowPage1 extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Buy Now'),
+        title: Text('Buy now'),
         titleSpacing: 20,
         toolbarHeight: 40,
         toolbarOpacity: 1,
@@ -517,7 +517,7 @@ class BuyNowPage1 extends StatelessWidget {
                 Container(
                   height: 90,
                   width: 90,
-                  child: Text("       Nogod"),
+                  child: Text("       Nagod"),
 
                 )
               ],
@@ -557,7 +557,7 @@ class BuyNowPage2 extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Buy Now'),
+        title: Text('Buy now'),
         titleSpacing: 20,
         toolbarHeight: 40,
         toolbarOpacity: 1,
@@ -684,7 +684,7 @@ class BuyNowPage3 extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Buy Now'),
+        title: Text('Buy now'),
         titleSpacing: 20,
         toolbarHeight: 40,
         toolbarOpacity: 1,
@@ -802,4 +802,7 @@ class BuyNowPage3 extends StatelessWidget {
     );
   }
 }
+/*
+This is software Development-III(Edited from online github.com)
 
+*/
